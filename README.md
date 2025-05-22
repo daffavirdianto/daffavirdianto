@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**daffavirdianto/daffavirdianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> &nbsp; Hello, I'm Daffa Virdianto! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" />
 
-Here are some ideas to get you started:
+🎯 Interested Software Tester / QA Engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+🔍 Passionate about software testing, debugging, and improving product quality
+🛠 Currently exploring PHP & Java for backend development
+🌱 Learning about automated testing and best QA practices
+📌 Interested in agile development and CI/CD pipelines
+
+### 🧰 Tech Stack
+🧑‍💻 Languages   : PHP & Java
+🧱 Frameworks  : Laravel & Spring Boot
+🗃️ Databases   : MySQL & PostgreSQL
+🧪 Tools & Platforms : Git, VSCode
+Exploring: Selenium, Postman
+
+### 🚀 What I'm Working On
+- Practicing manual & automated testing
+- Building personal projects using PHP & Java
+- Learning API testing and performance testing tools
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
