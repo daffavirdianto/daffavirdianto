@@ -13,7 +13,11 @@
 - 🧱 Frameworks  : Laravel & Spring Boot
 - 🗃️ Databases   : MySQL & PostgreSQL
 - 🧪 Tools & Platforms : Git, VSCode
-- Exploring: Selenium, Postman
+
+### QA ENGINEER SKILLS
+- **Automation:** Selenium WebDriver, TestNG, Cucumber (BDD)
+- **API Testing:** RestAssured, Postman
+- **CI/CD Integration:** GitHub Actions
 
 ### 🚀 What I'm Working On
 - Practicing manual & automated testing
