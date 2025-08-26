@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me
 - 🔍 Passionate about software testing, debugging, and improving product quality
-- 🛠 Currently exploring PHP & Java for backend development
+- 🛠 Currently exploring PHP & Java
 - 🌱 Learning about automated testing and best QA practices
 - 📌 Interested in agile development and CI/CD pipelines
 
