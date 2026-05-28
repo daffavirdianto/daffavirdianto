@@ -10,7 +10,7 @@
 
 ### 🧰 Tech Stack
 - 🧑‍💻 Languages   : Vue, Java, Kotlin, PHP & Go
-- 🧱 Frameworks  : Quasar, Spring Boot & Selenium
+- 🧱 Frameworks  : Quasar, Spring Boot, Laravel, CI
 - 🗃️ Databases   : MySQL, PostgreSQL, MSSQL
 - 🧪 Tools       : Kafka, Redis
 - 🎯 Platforms   : Git, Docker, Elastic, Logstash, Kibana
