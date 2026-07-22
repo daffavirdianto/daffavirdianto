@@ -1,6 +1,6 @@
 ### <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> &nbsp; Hello, I'm Daffa Virdianto! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" />
 
-🎯 Fullstack Developer & Automation Tester
+🎯 Backend Developer & Automation Tester
 
 ### 👨‍💻 About Me
 - 🔍 Passionate about software testing, debugging, and improving product quality
@@ -11,8 +11,8 @@
 ### 🧰 Tech Stack
 - 🧑‍💻 Languages   : Vue, Java, Kotlin, PHP & Go
 - 🧱 Frameworks  : Quasar, Spring Boot, Laravel, CI
-- 🗃️ Databases   : MySQL, PostgreSQL, MSSQL
-- 🧪 Tools       : Kafka, Redis
+- 🗃️ Databases   : MySQL, PostgreSQL, SQL Server
+- 🧪 Tools       : Kafka, Redis, MonggoDb
 - 🎯 Platforms   : Git, Docker, Elastic, Logstash, Kibana
 
 ### QA ENGINEER SKILLS
